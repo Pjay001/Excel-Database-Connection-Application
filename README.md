@@ -28,7 +28,7 @@ The Excel Database Connection Application is a comprehensive tool designed to fa
 
 2. Install the required dependencies:
    ```bash
-   pip install pandas sqlite3 json streamlit plotly
+   pip install pandas sqlite3 json streamlit plotly openpyxl
    ```
 
 ## Usage
