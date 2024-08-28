@@ -38,24 +38,29 @@ The Excel Database Connection Application is a comprehensive tool designed to fa
 
 2. Upload your Excel file and follow the prompts to generate a configuration file.
 
+   ![Screenshot (14)](https://github.com/user-attachments/assets/a1718f88-78f2-46a3-85ec-f8e6fa950351)
+
 3. Use the provided interface to create or update the database, filter and view data, and visualize the data with various graphs.
 
 ![1](https://github.com/user-attachments/assets/483b2f62-4b5e-4c78-87f9-ac31674fac60)
 
 ## Application Tabs
 - **Create configuration file for excel**: Generate a JSON configuration file for your Excel dataset.
+  
   ![Screenshot (1)](https://github.com/user-attachments/assets/fcc3aad2-13e9-4cdc-9b60-6127729fec4b)
   ![Screenshot (3)](https://github.com/user-attachments/assets/05fba07e-7d24-4389-857c-fdf674dd52eb)
   ![Screenshot (4)](https://github.com/user-attachments/assets/c45613b3-b1cc-42db-bd7e-bd12819d7947)
 
 - **Create/Update Database**: Insert or update data from your Excel file into the SQLite database.
+  
   ![Screenshot (6)](https://github.com/user-attachments/assets/e2727342-0768-40e0-b623-cf8dc1fa0b64)
 
 - **Filter and view Data**: Filter and view the data stored in the database.
+  
   ![Screenshot (8)](https://github.com/user-attachments/assets/da1cc946-3cbf-41b6-9a5f-070a177b498b)
 
 - **Display Graphs**: Visualize the data with histograms, bar charts, pie charts, line charts, and scatter plots.
-  ![Screenshot (11)](https://github.com/user-attachments/assets/4e7e6f7d-68e6-4176-b44e-5e35330a2d65)
+  
   ![Screenshot (12)](https://github.com/user-attachments/assets/0c6676b4-6165-4789-b4e9-d5b0514eac9a)
 
 ## Configuration File Structure
