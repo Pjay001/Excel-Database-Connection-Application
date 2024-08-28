@@ -66,8 +66,7 @@ The configuration file is a JSON file that maps the headers in your Excel file t
 {
   "header_mapping": {
     "your_table_name": {
-      "column1": "col1_name S![Screenshot (11)](https://github.com/user-attachments/assets/5a1df909-0787-4025-ae3b-362d547512ea)
-QL_TYPE",
+      "column1": "col1_name",
       "column2": "col2_name SQL_TYPE",
       "PRIMARY KEY": "primary_key_column"
     }
