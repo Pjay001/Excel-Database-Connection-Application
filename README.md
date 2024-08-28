@@ -14,6 +14,7 @@ The Excel Database Connection Application is a comprehensive tool designed to fa
 - Python 3.8+
 - pandas
 - sqlite3
+- openpyxl
 - json
 - streamlit
 - plotly
